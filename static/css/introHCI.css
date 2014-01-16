@@ -50,6 +50,12 @@ img .thumbnail {
      background-color: #5eacd3;
      padding:20px;
      width:530px;
+     margin-bottom:20px;
+
+}
+
+a:hover {
+     text-decoration: none;
 }
 
 /*.project {
